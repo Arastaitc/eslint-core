@@ -1,0 +1,39 @@
+{
+  "name": "@arastaitc/eslint-config-base-typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arastaitc/eslint-core"
+  },
+  "bugs": {
+    "url": "https://github.com/arastaitc/eslint-core/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/arastaitc/eslint-core",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "arastaitc",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@arastaitc/eslint-config-base": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2"
+  }
+}

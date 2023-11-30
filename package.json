@@ -1,0 +1,40 @@
+{
+  "name": "arastaitc-eslint-style",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arastaitc/eslint-core"
+  },
+  "bugs": {
+    "url": "https://github.com/arastaitc/eslint-core/issues"
+  },
+  "homepage": "https://github.com/arastaitc/eslint-core",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "arastaitc",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "typescript"
+  ],
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "lerna": "^3.14.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "lerna:link": "lerna link convert",
+    "lerna:compile": "lerna run compile",
+    "lerna:clean": "lerna run clean",
+    "lerna:lint": "lerna run lint",
+    "lerna:test": "lerna run test",
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:create": "lerna create"
+  }
+}
