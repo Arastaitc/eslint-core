@@ -1,9 +1,10 @@
 module.exports = {
-  extends: ['airbnb', '@arastaitc/eslint-config-base-typescript', 'prettier/react'],
-  plugins: ['react', 'jsx-a11y'],
-  env: {
-    browser: true,
-  },
+  extends: [
+    'next',
+    '@arastaitc/eslint-config-base-typescript',
+    'prettier/react'
+  ],
+  plugins: ['jsx-a11y'],
   rules: {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
     'react/prop-types': 'off',
