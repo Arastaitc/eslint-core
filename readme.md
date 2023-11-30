@@ -3,9 +3,9 @@
 This package provides Arastaitc's `.eslintrc` as an extensible shared config.
 
 ## Usage
-<!-- 
-### @atolye15/eslint-config-base [documentation](https://github.com/arastaitc/eslint-core/tree/master/packages/eslint-config-base)
 
-### @atolye15/eslint-config-base-typescript [documentation](https://github.com/atolye15/javascript/tree/master/packages/eslint-config-base-typescript)
+### @arastaitc/eslint-config-base [documentation](https://github.com/arastaitc/eslint-core/tree/main/packages/eslint-config-base)
 
-### @atolye15/eslint-config [documentation](https://github.com/atolye15/javascript/tree/master/packages/eslint-config) -->
+### @arastaitc/eslint-config-base-typescript [documentation](https://github.com/eslint-core/javascript/tree/main/packages/eslint-config-base-typescript)
+
+### @arastaitc/eslint-config [documentation](https://github.com/arastaitc/eslint-core/tree/main/packages/eslint-config)

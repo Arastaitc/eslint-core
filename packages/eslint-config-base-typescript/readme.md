@@ -35,8 +35,8 @@ npm install @arastaitc/eslint-config-base-typescript --save-dev
 
 ## 1. @arastaitc/eslint-config-base
 
-https://github.com/arastaitc/eslint-core/tree/master/packages/eslint-config-base
+https://github.com/arastaitc/eslint-core/tree/main/packages/eslint-config-base
 
 ## 2. @typescript-eslint
 
-https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin
+https://github.com/typescript-eslint/typescript-eslint/tree/main/packages/eslint-plugin

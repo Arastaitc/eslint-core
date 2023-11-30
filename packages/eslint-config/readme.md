@@ -35,11 +35,11 @@ npm install @arastaitc/eslint-config --save-dev
 
 ## 1. @arastaitc/eslint-config-base-typescript
 
-https://github.com/arastaitc/eslint-core/tree/master/packages/eslint-config-base-typescript
+https://github.com/arastaitc/eslint-core/tree/main/packages/eslint-config-base-typescript
 
 ## 2. eslint-config-airbnb
 
-https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+https://github.com/airbnb/javascript/tree/main/packages/eslint-config-airbnb
 
 ## 3. eslint-plugin-react
 
