@@ -9,7 +9,7 @@ module.exports = {
     "prettier",
   ],
   env: {
-    jest: true,
+    node: true,
   },
-  plugins: ["import", "prettier", "jest", "eslint-comments"],
+  plugins: ["import", "prettier", "eslint-comments"],
 };
