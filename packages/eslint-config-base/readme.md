@@ -52,7 +52,3 @@ https://github.com/mysticatea/eslint-plugin-eslint-comments
 ## 5. eslint-plugin-import
 
 https://github.com/benmosher/eslint-plugin-import
-
-## 6. eslint-plugin-jest
-
-https://github.com/jest-community/eslint-plugin-jest

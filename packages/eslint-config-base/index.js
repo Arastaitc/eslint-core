@@ -4,7 +4,6 @@ module.exports = {
     "plugin:eslint-comments/recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
-    "plugin:jest/recommended",
     "plugin:prettier/recommended",
     "prettier",
   ],
