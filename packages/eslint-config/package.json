@@ -1,7 +1,7 @@
 {
   "name": "@arastaitc/eslint-config",
   "description": "Arastaitc's React NextJS JavaScript ESLint config, following our styleguide",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "license": "MIT",
   "repository": {
