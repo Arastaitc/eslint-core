@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@arastaitc/eslint-config-base": "^1.0.6",
-    "@typescript-eslint/eslint-plugin": "^4.33.0",
-    "@typescript-eslint/parser": "^4.33.0"
+    "@typescript-eslint/eslint-plugin": "^5.0.0 || ^6.0.0 || ^7.0.0",
+    "@typescript-eslint/parser": "^5.0.0 || ^6.0.0 || ^7.0.0"
   }
 }
