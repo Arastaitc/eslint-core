@@ -1,6 +1,9 @@
 module.exports = {
-  extends: ["@arastaitc/eslint-config-base", "next/core-web-vitals", "@arastaitc/eslint-config-base-typescript", "prettier/react"],
-  plugins: ["jsx-a11y"],
+  extends: ["next/core-web-vitals", "@arastaitc/eslint-config-base-typescript", "prettier/react"],
+  plugins: ["react", "jsx-a11y"],
+  env: {
+    browser: true,
+  },
   rules: {
     "react/jsx-filename-extension": [1, { extensions: [".js", ".jsx", ".ts", ".tsx"] }],
     "react/prop-types": "off",
