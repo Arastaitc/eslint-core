@@ -1,6 +1,6 @@
 # @arastaitc/eslint-config
 
-This package provides Atölye15's JS `.eslintrc` (with React plugins) as an extensible shared config.
+This package provides Arastaitc's JS `.eslintrc` (with React plugins) as an extensible shared config.
 
 ## Install
 

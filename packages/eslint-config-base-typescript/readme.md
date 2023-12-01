@@ -1,6 +1,6 @@
 # @arastaitc/eslint-config-base-typescript
 
-This package provides Atölye15's base TypeScript `.eslintrc` (without React plugins) as an extensible shared config.
+This package provides Arastaitc's base TypeScript `.eslintrc` (without React plugins) as an extensible shared config.
 
 ## Install
 
