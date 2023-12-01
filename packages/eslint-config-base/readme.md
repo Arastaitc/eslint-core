@@ -1,6 +1,6 @@
 # @arastaitc/eslint-config-base
 
-This package provides Arastaitc's base JavaScript `.eslintrc` (without React plugins) as an extensible shared config.
+This package provides Arastaitc's base JavaScript `.eslintrc` (without React/Next plugins) as an extensible shared config.
 
 ## Install
 

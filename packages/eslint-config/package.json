@@ -1,7 +1,7 @@
 {
   "name": "@arastaitc/eslint-config",
   "description": "Arastaitc's React NextJS JavaScript ESLint config, following our styleguide",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -28,7 +28,8 @@
     "es2018",
     "typescript",
     "react",
-    "nextjs"
+    "nextjs",
+    "next"
   ],
   "dependencies": {
     "@arastaitc/eslint-config-base-typescript": "^1.0.0",
